@@ -5,7 +5,7 @@ and [xxiivv/time](https://wiki.xxiivv.com/site/time.html)
 
 ## Run directly
 ```sh
-uv run ascii_clock/ascii-clock.py
+uv run ascii_clock/app.py
 ```
 
 ## Install as tool
